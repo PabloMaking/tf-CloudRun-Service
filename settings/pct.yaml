@@ -1,0 +1,9 @@
+repo_name: mkdocs-tf-repo
+project:
+  id:  aie-sandbox--pct--ac
+  name: aie-sandbox--pct
+  number: 1015656539918
+sa_id: mkdocs-tf-sa
+log_bucket: log-bucket-tf
+
+
